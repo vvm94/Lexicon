@@ -153,6 +153,341 @@ The consensus mechanism underlying EOS.IO. In this context, the network's credib
 
 ---
 
+### E
+#### EOS Enhancement Proposal (EEP)  
+A standard for proposing improvements to be developed by the community to create new standards for EOS.IO.
+
+#### EOS  
+The native token symbol on the EOS platform. Also commonly refers to the EOS mainnet.  
+*(Network chain ID: aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906)*
+
+#### EOSIO  
+The software created by Block.One that powers the EOS mainnet and other networks using this platform.
+
+#### EOS Alliance  
+A self-formed nonprofit entity (also called "EOS Allies") that facilitates community dialogue about important EOS governance topics. It holds no authority over EOS and exists solely to serve the community.
+
+#### EOS Go  
+An independent media initiative founded by Kevin Wilcox, Johan "Bluejays" Kalin, and Jenny "TopKpop" to provide English-language news for the EOS community. Known for their weekly YouTube blogs, EOSRAD.io broadcasts, block producer candidate reports, and the forums.eosgo.io platform.  
+*Acquired by a block producer team in October 2018.*
+
+#### ERC-20  
+Ethereum Request for Comment-20: The token standard for creating assets on Ethereum. The EOS initial coin offering (ICO) was conducted using ERC-20 tokens before the mainnet launch.
+
+---
+
+### F
+#### Fiat Currency  
+Government-issued currencies lacking intrinsic value, declared legal tender by regulation.
+
+#### Finality  
+Unlike other blockchains where users must wait for confirmations, EOS.IO achieves deterministic finality. Transactions behind the "last irreversible block" (LIB) are truly immutable and cannot be altered by chain reorganizations. This becomes critical with Inter-Blockchain Communication (IBC) protocols.
+
+#### Fork  
+A new blockchain created by copying the history of an existing chain and progressing independently.
+
+#### Forum  
+See: Referendum. The "eosio.forum" smart contract, created by EOS Canada, allows on-chain messaging. While versatile, it primarily serves the EOS mainnet's referendum system.
+
+#### FUD (Fear, Uncertainty, Doubt)  
+A common crypto term describing misinformation tactics used to stall progress by spreading baseless concerns.
+
+---
+
+### G
+#### Genesis Block  
+The first block in a blockchain. While forks share history with their parent chain, new platforms have unique genesis blocks. The EOS mainnet genesis block included the note:  
+*"Never doubt that a small group of thoughtful, committed citizens can change the world; indeed, it's the only thing that ever has."*  
+— eosacknowledgments.io
+
+#### GitHub  
+A code collaboration platform widely used for open-source projects like EOS.IO.
+
+#### GoLang  
+The Go programming language (developed by Google). EOS Canada created "eos-go" – a full Go library for EOS.IO development.
+
+#### Governance  
+The agreed-upon processes for maintaining fair and peaceful use of shared network resources.
+
+---
+
+### H
+#### Hackathon  
+Time-bound competitive events where developers collaborate on tech projects. Block.One hosts global hackathons to promote EOS.IO and dApp development.
+
+#### Hash  
+A fixed-length cryptographic fingerprint generated from input data using algorithms like SHA-256. Identical inputs always produce the same hash, enabling data verification.
+
+#### Hash Rate  
+The computational speed of mining operations (measured in hashes per second).
+
+#### Hardware Key  
+A physical device (typically USB) storing encrypted private keys. Allows cryptographic operations without exposing raw keys. If destroyed, the digital keys are permanently lost.
+
+#### Block Header  
+A section within each blockchain block containing metadata like:  
+- Timestamp  
+- Current block producer schedule  
+- Last irreversible block number  
+- Previous/current block IDs  
+
+---
+
+### I
+#### Inter-Blockchain Communication (IBC)  
+A future protocol for cross-chain interactions, enabling token transfers and parallel chain scaling.
+
+#### Initial Coin Offering (ICO)  
+A fundraising method where tokens are sold before network launch. Block.One's year-long EOS ICO raised over $4 billion – the largest in history.
+
+#### IMEOS  
+A Chinese media organization providing pre-launch EOS education to Mandarin-speaking communities.
+
+#### Immutable  
+The property of being unchangeable. Blockchain history becomes immutable through cryptographic chaining.
+
+#### Inflation  
+The EOS token issuance mechanism:  
+- 5% annual inflation (adjustable, with plans to reduce to 1%)  
+- 20% of inflation funds block producers and standby producers  
+- 80% goes to the EOS.IO savings account  
+
+#### Inline Action  
+Smart contract-triggered actions executed within a single transaction.
+
+#### IPFS (InterPlanetary File System)  
+A decentralized storage protocol similar to BitTorrent. Block.One aims to integrate IPFS with EOS.IO for fully decentralized file storage.
+
+---
+
+### J
+#### Jungle Testnet  
+One of EOS's primary test networks.  
+*Chain ID: 038f4b0fc8ff18a4f0842a8f0564611f6e96e8535901dd45e43ac8691a1c4dca*  
+Resources: [GitHub](https://github.com) | [Block Explorer](https://jungle.bloks.io)
+
+---
+
+### K
+#### KOREOS  
+Korean media source providing EOS updates for Korean-speaking communities.
+
+#### Kylin Testnet  
+Another major EOS testnet operated by CryptoKylin.  
+*Chain ID: 5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191*  
+Resources: [Website](https://www.cryptokylin.io) | [Explorer](https://kylin.bloks.io)
+
+---
+
+### L
+#### Launch  
+The process of bootstrapping a blockchain network (synonym: "boot").
+
+#### Leaky Bucket Algorithm  
+Vote reward redistribution mechanism: Candidates earning <100 EOS/day from votes have their rewards redistributed to others above the threshold.
+
+#### Last Irreversible Block (LIB)  
+A block confirmed with 100% certainty, unaffected by chain reorganizations. Transactions beyond the LIB are permanently settled.
+
+---
+
+### M
+#### Mainnet  
+The primary EOS blockchain.  
+*Chain ID: aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906*  
+
+---
+
+
+
+
+### M
+#### Mapping  
+During the EOS ERC-20 token distribution on Ethereum, users were required to register their public keys to map them to EOS mainnet accounts, assigning these keys to owner and active permissions on the new network.
+
+#### Merkle Tree  
+A cryptographic data structure used in EOS to link multiple transactions through hashes, ultimately connecting them to the genesis block. Provides efficient proof of transaction inclusion within a block.
+
+#### Multi-signature (Multi-sig)  
+Requires multiple cryptographic signatures (each from a different private key) to authorize an action. Enhances security by preventing single-point key compromises.
+
+---
+
+### N
+#### Namespace  
+Similar to ".com" or ".org" in web addresses, EOS allows namespace auctions for account suffixes (e.g., winning ".com" lets users create accounts ending with ".com"). Notable auctions included "eos.", "io.", and "com.".
+
+#### Network (NET)  
+A user resource representing blockchain throughput capacity. Delegating tokens secures proportional network bandwidth based on total delegated tokens.
+
+#### Node  
+Any computer/server running node software and connected to EOS's peer-to-peer (P2P) blockchain network.
+
+---
+
+### O
+#### Open Source  
+Per Article 7 of the EOS Constitution, all smart contracts must have publicly available source code for review, copying, and modification.
+
+#### Oracle  
+A system that feeds off-chain data to smart contracts (e.g., reporting basketball game scores for contract-based decisions).
+
+#### Owner Permission  
+The highest authority level in EOS account permissions. Can sign for all child permissions and restructure them. Default permissions are "owner" and "active".
+
+---
+
+### P
+#### Permissions  
+EOS.IO's account-based permission system allows customized authority structures (e.g., securing token transfers while allowing game interactions with limited keys).
+
+#### Proof of Work (PoW)  
+Consensus mechanism (used by Bitcoin) where miners compete to solve cryptographic puzzles. Increasing difficulty protects chain history.
+
+#### Proof of Stake (PoS)  
+Consensus mechanism distributing inflation rewards/transaction fees proportionally to token holders.
+
+#### Private Key  
+Cryptographic key authorizing blockchain actions under an account's permissions. Paired with a public key.
+
+#### Public Key  
+Publicly shareable key derived from a private key. Revealing it poses no security risk.
+
+#### Proxy  
+1) An account registered via `regproxy` that can receive delegated votes.  
+2) Delegating voting power to another account without researching candidates.
+
+---
+
+### R
+#### RAM  
+Random Access Memory: A scarce EOS resource purchased (not staked) for fast data storage/retrieval.
+
+#### Referendum  
+EOS's on-chain voting system (via `eosio.forum` contract by EOS Canada) for community decision-making.
+
+#### Refund  
+After unstaking tokens, a 72-hour waiting period precedes refunds (shown as "pending refund" in explorers).
+
+#### Registration  
+ERC-20 EOS holders had to register public keys before mainnet launch to claim EOS mainnet accounts.
+
+#### Resources  
+EOS accounts manage three resources:  
+- **RAM**: Persistent (bought/sold)  
+- **CPU/NET**: Transient (renews ~24h)  
+
+#### Resource Exchange (REX)  
+A decentralized rental market for CPU/NET/RAM resources using Bancor-based distribution. Requires voting for ≥21 BPs or proxy voting.
+
+#### Ricardian Contract  
+Human-readable contract defining smart contract intent. Mandatory for all EOS smart contracts per Constitution.
+
+---
+
+### S
+#### Smart Contract  
+Self-executing contracts written in code.
+
+#### Snapshot  
+A recorded blockchain state used for airdrops or analyzing token holdings at specific times.
+
+#### Stake  
+1) Total EOS tokens owned  
+2) Delegated tokens for resource access  
+
+#### Staking  
+The process of allocating EOS tokens to secure CPU/NET resources.
+
+#### Staked  
+The amount of EOS tokens currently allocated for resources.
+
+#### Standby Producer  
+Block producer candidates ranked:  
+1) Top 21 (active producers)  
+2) Earning ≥100 EOS/day from votes  
+3) All other `regproducer` candidates  
+
+#### Sudo  
+From Linux's "superuser do". The `eosio.wrap` contract lets 15/21 BPs sign transactions on behalf of users.
+
+#### Supernode  
+Alternative term for block producer (common in other blockchain contexts).
+
+
+
+### T
+#### Transaction as Proof of Stake (TaPoS)  
+A security mechanism ensuring transactions reference the latest blockchain state, preventing replay attacks where malicious actors might reuse old transactions despite account state changes.
+
+#### Testnet  
+A testing environment where developers trial smart contracts and applications. Block producers verify infrastructure functionality and test upgrades before mainnet deployment. Used for:  
+- Simulating production networks  
+- Stress-testing against attacks  
+- Debugging unintended consequences  
+
+#### Token  
+The base unit of cryptocurrency. EOS tokens are divisible to 4 decimal places. Often used interchangeably with "coin."
+
+#### Tokenomics  
+The economic study of token systems, including:  
+- Token movement dynamics  
+- Currency creation/management  
+- Network removal mechanisms  
+Originated with Bitcoin and expanded with Ethereum's smart contracts.
+
+#### Transaction  
+A blockchain interaction containing one or multiple actions. On EOS, all on-chain operations (not just token transfers) are classified as transactions.
+
+---
+
+### U
+#### User  
+Any individual interacting with the EOS blockchain, either directly or through decentralized applications (dApps).
+
+---
+
+### V
+#### Venture Capital (VC) Funding  
+During EOS's ICO, Block.One raised ~$4 billion, allocating $1 billion to VC partnerships including:  
+- Galaxy Digital  
+- SVK Crypto  
+- Tomorrow BC  
+- FinLab  
+- EOS Global  
+*(Source: vc.eos.io)*
+
+#### Vote  
+A core governance mechanism in EOS.IO used for:  
+- Electing block producers  
+- Constitutional referendums  
+- Worker Proposal System decisions  
+- Council elections  
+
+#### Vote Decay  
+An incentive mechanism where voting power diminishes over time unless refreshed weekly. Prevents stale votes and maintains active block producer engagement. Users may:  
+- Vote manually (≥1/week)  
+- Delegate to auto-updating proxies  
+
+#### Vote Pay (Vpay)  
+From EOS's 5% inflation, 1% funds block producer rewards. 75% of this allocation distributes proportionally to candidates earning ≥100 EOS daily from votes. See also: *Leaky Bucket Algorithm*.
+
+---
+
+### W
+#### Wallet  
+Software storing private keys to authorize transactions. *Note:* Wallets don't "hold" tokens—they manage keys controlling on-chain token rights.
+
+#### Whale  
+An individual or wallet holding exceptionally large token quantities.
+
+#### Worker Proposal System (WPS)  
+A community-funded initiative supporting:  
+- Network improvements  
+- Community projects  
+Funded through partial inflation.
+
+---
 
 
 

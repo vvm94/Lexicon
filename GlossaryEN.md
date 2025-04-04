@@ -1,3 +1,9 @@
+# Glossary of Cryptocurrency and Blockchain Terms (EOS Specific)
+
+This glossary is an attempt to better understand English blockchain terminology and provide Arabic alternatives that can be used when writing in Arabic without needing to include the English terms.
+
+The glossary is incomplete and may contain flaws, which is why we invite everyone to participate in translation and suggest better alternatives. Contributors' names will be added to a dedicated page linked to the glossary.
+
 # EOS Blockchain Glossary - Alphabetical Index
 
 | Letter | Terms |
@@ -27,27 +33,10 @@
 
 ---
 
-## Term Definitions
-
-### A
-#### <a id="action"></a>Action  
-*[Definition from previous sections...]*
-
-#### <a id="active-permission"></a>Active Permission  
-*[Definition from previous sections...]*
-
-[... continue with all other terms in alphabetical order ...]
-
-
-Here is the English translation of the provided cryptocurrency and blockchain glossary focused on EOS:
 
 ---
 
-# Glossary of Cryptocurrency and Blockchain Terms (EOS Specific)
 
-This glossary is an attempt to better understand English blockchain terminology and provide Arabic alternatives that can be used when writing in Arabic without needing to include the English terms.
-
-The glossary is incomplete and may contain flaws, which is why we invite everyone to participate in translation and suggest better alternatives. Contributors' names will be added to a dedicated page linked to the glossary.
 
 ---
 

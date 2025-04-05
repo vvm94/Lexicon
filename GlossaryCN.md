@@ -6,6 +6,125 @@
 
 本词典尚不完整，可能存在缺陷。因此，我们邀请所有人参与翻译并提出他们认为更合适的翻译建议。修改者的名字将添加到词典的专用页面中。
 
+## 字母索引
+
+### A
+- [Action - 行动](#action)
+- [Active Permission - 活跃权限](#active-permission)
+- [Airdrop - 空投](#airdrop)
+- [Airgrab - 空抓](#airgrab)
+- [Approval Voting - 批准投票](#approval-voting)
+
+### B
+- [Bandwidth - 带宽](#bandwidth)
+- [BFT - 拜占庭容错](#bft)
+- [BIOS Boot Sequence - BIOS启动序列](#bios-boot-sequence)
+- [Block Explorer - 区块浏览器](#block-explorer)
+- [Block Height - 区块高度](#block-height)
+- [Block Producer - 区块生产者](#block-producer)
+- [Blockchain - 区块链](#blockchain)
+
+### C
+- [Child - 子权限](#child)
+- [Chintai - 资源租赁平台](#chintai)
+- [Cold Storage - 冷存储](#cold-storage)
+- [Consensus - 共识](#consensus)
+- [Constitution - 宪法](#constitution)
+- [CPU - 处理器资源](#cpu)
+
+### D
+- [DAC - 去中心化自治公司](#dac)
+- [dApp - 去中心化应用](#dapp)
+- [Deferred Transaction - 延迟交易](#deferred-transaction)
+- [Delegate - 委托](#delegate)
+- [DPoS - 委托权益证明](#dpos)
+
+### E
+- [EEP - EOS改进提案](#eep)
+- [EOS - EOS代币](#eos)
+- [EOSIO - EOSIO软件](#eosio)
+- [ERC-20 - 以太坊代币标准](#erc-20)
+
+### F
+- [Fiat - 法币](#fiat)
+- [Finality - 最终性](#finality)
+- [Fork - 分叉](#fork)
+- [FUD - 恐惧/不确定/怀疑](#fud)
+
+### G
+- [Genesis Block - 创世区块](#genesis-block)
+- [GitHub - 代码托管平台](#github)
+- [Governance - 治理](#governance)
+
+### H
+- [Hackathon - 黑客马拉松](#hackathon)
+- [Hash - 哈希](#hash)
+- [Hardware Key - 硬件密钥](#hardware-key)
+
+### I
+- [ICO - 首次代币发行](#ico)
+- [Immutable - 不可变性](#immutable)
+- [Inflation - 通胀](#inflation)
+
+### J
+- [Jungle - 丛林测试网](#jungle)
+
+### K
+- [Kylin - 麒麟测试网](#kylin)
+
+### L
+- [Launch - 启动](#launch)
+- [LIB - 最后不可逆区块](#lib)
+
+### M
+- [Mainnet - 主网](#mainnet)
+- [Mapping - 映射](#mapping)
+- [Merkle Tree - 默克尔树](#merkle-tree)
+
+### N
+- [Namespace - 命名空间](#namespace)
+- [Network - 网络资源](#network)
+- [Node - 节点](#node)
+
+### O
+- [Open Source - 开源](#open-source)
+- [Oracle - 预言机](#oracle)
+
+### P
+- [Permissions - 权限](#permissions)
+- [PoS - 权益证明](#pos)
+- [PoW - 工作量证明](#pow)
+- [Private Key - 私钥](#private-key)
+- [Public Key - 公钥](#public-key)
+
+### R
+- [RAM - 内存](#ram)
+- [Referendum - 公投](#referendum)
+- [REX - 资源交易所](#rex)
+
+### S
+- [Smart Contract - 智能合约](#smart-contract)
+- [Stake - 抵押](#stake)
+- [Supernode - 超级节点](#supernode)
+
+### T
+- [TaPoS - 交易作为权益证明](#tpos)
+- [Testnet - 测试网络](#testnet)
+- [Token - 代币](#token)
+- [Transaction - 交易](#transaction)
+
+### U
+- [User - 用户](#user)
+
+### V
+- [Vote - 投票](#vote)
+- [Vote Decay - 投票衰减](#vote-decay)
+
+### W
+- [Wallet - 钱包](#wallet)
+- [Whale - 巨鲸](#whale)
+- [WPS - 工人提案系统](#wps)
+
 
 
 
